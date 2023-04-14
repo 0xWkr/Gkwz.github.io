@@ -24,8 +24,14 @@ header{
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
+    transition: 0.7s
 
 }
+
+.logo:hover {
+    color: #601cfc;
+}
+
 
 
 .navigation a {
